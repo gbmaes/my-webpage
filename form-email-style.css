@@ -1,0 +1,19 @@
+#form {
+    
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: ;
+    align-items: ;
+    
+}
+
+#message {
+    width: 400px;
+    height: 300px;
+   
+    
+}

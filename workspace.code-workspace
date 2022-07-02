@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\html5up-fractal\\assets\\js"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\html5up-fractal\\assets\\sass"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\html5up-fractal\\assets\\webfonts"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "website-template"
+	}
+}
