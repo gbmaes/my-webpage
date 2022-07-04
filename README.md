@@ -6,4 +6,4 @@ My Web Page is a project that aims to show the world a little bit about myself. 
 
 >project is still on-going. Finish estimated date: 08/07/2022;
 
->this project is the second one from a 30 straight days coding challenge.
+>this project is the 2nd from a 30 straight days coding challenge.
