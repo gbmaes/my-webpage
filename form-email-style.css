@@ -1,5 +1,9 @@
 body{
     background-color: #4696e5;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    line-height: 1.5em;
+    letter-spacing: -0.015em;
 }
 
 .container {
@@ -18,47 +22,19 @@ body{
 }
 
 #footer {
-    background-color: #f7f7f7;
-    color: #999999;
+    background-color: #4696e5;
+    color: #ffffff;
     padding: 4.5em 0 2.5em 0 ;
-    color: #b0b0b0;
     text-align: center;
+    float: left;
+    width: 100%;
+    margin: 0 auto;
+    height: 100%;
+    position: relative;
+    display: block;
+    
 }
-
-    #footer input, #footer select, #footer textarea {
-        color: #999999;
-    }
-
-    #footer a {
-        color: inherit;
-        border-bottom-color: #999999;
-    }
-
-        #footer a:hover {
-            color: #4696e5;
-        }
-
-    #footer strong, #footer b {
-        color: #828282;
-    }
-
-    #footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
-        color: #828282;
-    }
-
-    #footer blockquote {
-        border-left-color: #d6d6d6;
-    }
-
-    #footer code {
-        background: rgba(241, 236, 236, 0.075);
-        border-color: #d6d6d6;
-    }
-
-    #footer hr {
-        border-bottom-color: #d6d6d6;
-    }
-
+  
     #footer a {
         color: inherit;
     }
@@ -67,26 +43,4 @@ body{
         font-size: 0.8em;
     }
 
-    @media screen and (max-width: 980px) {
-
-        #footer {
-            padding: 4em 4em 2em 4em ;
-        }
-
-    }
-
-@media screen and (max-width: 736px) and (orientation: landscape) {
-
-    #footer {
-        padding: 3em 3em 1em 3em ;
-    }
-
-}
-
-@media screen and (max-width: 736px) and (orientation: portrait) {
-
-    #footer {
-        padding: 3em 1.5em 1em 1.5em ;
-    }
-
-}
+  
