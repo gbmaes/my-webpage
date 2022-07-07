@@ -5,10 +5,11 @@ var Email = window.document.getElementById("email").value
 var Subject = window.document.getElementById("subject").value
 var Msg = window.document.getElementById("message").value
 
-if (Fname.length < 2 || Lname.length < 2 || Email.length < 7 || Subject.length < 2 || Msg.length < 2) {
-    window.alert('Please verify your information and try again.')
-} else {
-    
+if (Fname.length < 2 || Lname.length < 2) {
+    window.alert('Please verify your first and last name and try again.')
+} else if (Msg.length < 2) {
+    window.alert('Please write at least two letters in "Message".')
+} 
 }
-}
+
 
