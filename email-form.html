@@ -9,8 +9,7 @@
 </head>
 <body>
     <main class="container">
-    <div id="">
-    <form id="">
+    <form id="form">
         <label for="fname">First name:</label><br>
         <input type="text" id="fname" name="fname"><br>
         <label for="lname">Last name:</label><br>
@@ -21,13 +20,15 @@
         <input type="text" id="subject" name="subject"> <br>
         <label for="message">Message:</label><br>
         <textarea name="comment[body]" rows="1" cols="50" wrap="physical" id="message"></textarea> <br>
-        <button>Send</button>
+        <button id="send" onclick="sendEmail()">Send</button>
     </form>
-    </div>
     </main>
     <script src="./script.js"></script>
-     <footer id="footer">
-        <p class="copyright">&copy; Untitled. Credits: <a href="http://html5up.net">HTML5 UP</a></p>
+
+    <footer>
+        <div id="footer">
+        <p class="copyright">&copy;  2022 Gabriel Maes All Rights Reserved</p>
+        </div>
     </footer>
 </body>
 </html>
