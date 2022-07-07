@@ -1,6 +1,6 @@
 # my-webpage
 
-My Web Page is a project that aims to show the world a little bit about myself. It contains some information about me. I used an existing web page template and customized it.
+Simple web page that contains information about me, links to my social networks and a form to send me an email.
 
 >project started on 02/07/2022;
 
