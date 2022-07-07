@@ -10,6 +10,4 @@ Simple web page that contains information about me, links to my social networks 
 
 >project finished on 07/07/2022;
 
->still needs some work on:
--adapt it to mobile version,
--make user's message get sent to my e-mail.
+>still needs some work on:  adapt it to mobile version and make user's message get sent to my e-mail.
