@@ -8,6 +8,6 @@ Simple web page that contains information about me, links to my social networks 
 
 >this project is the 2nd from a 30 straight days coding challenge;
 
->project finished on 07/07/2022;
+>project finished on 07/07/2022, one day before deadline day;
 
 >still needs some work on:  adapt it to mobile version and make user's message get sent to my e-mail.
