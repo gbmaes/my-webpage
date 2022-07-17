@@ -5,7 +5,6 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -196,7 +195,6 @@ input, select, textarea {
 			h1 br, h2 br, h3 br, h4 br, h5 br, h6 br {
 				display: none;
 			}
-
 		}
 
 	h2 {
@@ -826,11 +824,9 @@ input, select, textarea {
 						.row.gtr-200.gtr-uniform > * {
 							padding-top: 3em;
 						}
-
 		}
 
 		@media screen and (max-width: 1280px) {
-
 			.row {
 				display: flex;
 				flex-wrap: wrap;
@@ -1493,7 +1489,6 @@ input, select, textarea {
 						.row.gtr-25.gtr-uniform > * {
 							padding-top: 0.375em;
 						}
-
 				.row.gtr-50 {
 					margin-top: 0;
 					margin-left: -0.75em;
