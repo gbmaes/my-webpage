@@ -7,7 +7,6 @@
 (function($) {
 	var	$window = $(window),
 		$body = $('body');
-
 	// Breakpoints.
 		breakpoints({
 			xlarge:   [ '1281px',  '1680px' ],
